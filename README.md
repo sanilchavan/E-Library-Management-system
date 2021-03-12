@@ -15,6 +15,8 @@
 ### This function is for adding books to the library.After, Selecting the Add books the select categories will be displayed
 ### After, entering the choice the following options will be displayed
 ![image](https://user-images.githubusercontent.com/31321149/110970613-ec17cc80-837f-11eb-8d92-d12183f75726.png)
+![image](https://user-images.githubusercontent.com/31321149/110971347-c63ef780-8380-11eb-97a0-78e08029ea07.png)
+
 
 
 
